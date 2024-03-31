@@ -1,4 +1,4 @@
-module gin_test
+module github.com/DutkinTE/go
 
 go 1.21.3
 

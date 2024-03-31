@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"gin_test/models"
+	"github.com/DutkinTE/go/models"
 
 	"github.com/gin-gonic/gin"
 )

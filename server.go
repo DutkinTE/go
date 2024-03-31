@@ -1,8 +1,8 @@
 package main
 
 import (
-	"gin_test/controllers"
-	"gin_test/models"
+	"github.com/DutkinTE/go/controllers"
+	"github.com/DutkinTE/go/models"
 
 	"github.com/gin-gonic/gin"
 )
